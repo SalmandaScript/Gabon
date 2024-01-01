@@ -86,6 +86,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function ethiopia(){
+open("https://salmandascript.github.io/Ethiopia/Ethiopia.html");
+}
+
+//next page 
+function ghana(){
+open("https://salmandascript.github.io/Ghana/Ghana.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
